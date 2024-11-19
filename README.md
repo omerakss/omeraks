@@ -1,5 +1,4 @@
 # omeraks
-<!DOCTYPE html>
 <html>
 <head>
     <title>Çok Yakında</title>
